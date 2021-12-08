@@ -82,7 +82,7 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
-<a href="https://github.com/ijavadddd/Background-generator">
+<a href="https://github.com/ijavadddd/Password_Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Background-generator&theme=tokyonight" />
 </a>
 
