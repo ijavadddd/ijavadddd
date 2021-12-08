@@ -86,22 +86,3 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Background-generator&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/ijavadddd/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=robofriends&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ijavadddd/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ijavadddd/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ijavadddd/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/ijavadddd/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
