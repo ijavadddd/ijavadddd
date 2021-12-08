@@ -86,3 +86,6 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Password_Generator&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/ijavadddd/Torob">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Torob&theme=tokyonight" />
+</a>
