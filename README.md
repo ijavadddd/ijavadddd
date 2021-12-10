@@ -83,8 +83,8 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
-<a href="https://github.com/ijavadddd/Password_Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Password_Generator&theme=tokyonight" />
+<a href="https://github.com/ijavadddd/simple_python_practices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=simple_python_practices&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/ijavadddd/Torob">
