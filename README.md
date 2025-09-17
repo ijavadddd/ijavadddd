@@ -1,5 +1,3 @@
-[![ProfileBanner](https://github.com/ijavadddd/ijavadddd/blob/main/Banner%20Image-min.jpg?raw=true)](#)
-
 ### About me🧑:
 I am Computer Engineering student and a Certified Python Developer.<br/>
 Also I dominance at Django framework.<br/>
