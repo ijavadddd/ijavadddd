@@ -1,90 +1,52 @@
-### About me🧑:
-I am Computer Engineering student and a Certified Python Developer.<br/>
-Also I dominance at Django framework.<br/>
-I love programming and and it's challenges and would 💖 to grow my knowledge in these Technologies.
+### About Me 🧑‍💻
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+I’m a Python/Django Backend Developer with a strong focus on building scalable, reliable, and secure applications.  
+Currently working at a mid-level role, I specialize in backend development and aim to grow into a senior engineer who thrives on solving complex challenges.  
 
-- 🔭 I’m currently working on Backend Web Development.
-- 🌱 I’m currently learning Frontend Development.
-- 👯 I’m looking to collaborate with Fullstack Web.
-- 🤔 I’m looking for help with Open source Contribution and improving my skills.
-- 💬 Ask me about Backend Development.
-- 😄 Pronouns: He/Him
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=ijavadddd)
-
-<br/>
+- 🔭 Current focus: Backend Web Development with Python/Django  
+- ⚡ Interests: Designing scalable systems, API development, distributed services  
+- 📬 Reach me at: **ijavadd.dev@gmail.com**  
 
 ---
 
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Python_logo_53.svg/640px-Python_logo_53.svg.png"></code>
-  
-</details>
+### 🛠 Languages & Tools
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/grpc/grpc.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/rest-api/rest-api.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 
 ---
 
-<details>
-<summary> Connect with me🤝: </summary>  
-
-<br/>
-
-<a href="https://t.me/ijavadddd" target="_blank">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/ijavadddd" target="_blank">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://instagram.com/ijavadddd/" target="_blank">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://linkedin.com/in/ijavadddd" target="_blank">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
-
----
-
-### Github Activity ✔:
+### 📊 GitHub Activity
 
 <a href="https://github.com/ijavadddd">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijavadddd&theme=tokyonight" />
-  </a>
+</a>
 
 <a href="https://github.com/ijavadddd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ijavadddd&show_icons=true&theme=ijavadddd&line_height=27" alt="Dave's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ijavadddd&show_icons=true&theme=tokyonight&line_height=27" alt="Javad's GitHub stats"/>
 </a>
 
-<br/>
-<br/>
-<br/>
+---
 
-### My Projects ✨:
-  
-<a href="https://github.com/ijavadddd/simple_python_practices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=simple_python_practices&theme=tokyonight" />
+### 🤝 Connect with Me
+
+<a href="mailto:ijavadd.dev@gmail.com" target="_blank">
+  <img align="left" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
-<a href="https://github.com/ijavadddd/Torob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ijavadddd&repo=Torob&theme=tokyonight" />
+<a href="https://linkedin.com/in/ijavadddd" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+
+<a href="https://github.com/ijavadddd" target="_blank">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
